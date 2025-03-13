@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-!pip install seaboard
-import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load the Iris dataset
