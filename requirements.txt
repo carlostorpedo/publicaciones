@@ -26,7 +26,6 @@ pytz==2025.1
 referencing==0.36.2
 requests==2.32.3
 rpds-py==0.23.1
-six[2025-03-13 11:20:33.038556] ==1.17.0
 smmap==5.0.2
 streamlit==1.43.2
 tenacity==9.0.0
