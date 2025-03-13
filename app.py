@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load the Iris dataset
-iris = sns.load_dataset("iris")
+iris = pd.read_csv('iris.csv')
 
 # Set page title and description
 # st.set_page_config(page_title="Iris Dataset Visualization", page_icon=":bar_chart:", layout="wide")
